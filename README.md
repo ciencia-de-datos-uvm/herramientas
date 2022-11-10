@@ -89,6 +89,48 @@ Recuerda que si abres otra pestania, seguiras en el mismo equipo.
 
 
 
+## Administra tus plantillas para trabajar en equipo (kit de marca)
+
+Puedes crear templates o plantillas con estilos predeterminados, util para cuando los equipos necesiten usar el mismo disenio y/o estetica. Canva los llama kits de marca, la documentacion oficial esta en: https://www.canva.com/es_mx/help/brand-kit/
+
+Para crear un kit de marca, abre el menu de hamburguesa que se encuentra del lado izquierdo y selecciona marca
+
+![image](https://user-images.githubusercontent.com/71740335/201010985-a3b1d674-b471-4fcc-802f-fc4e9f46af41.png)
+
+Desde aqui puedes editar colores, logos y fuente.
+
+![image](https://user-images.githubusercontent.com/71740335/201011112-3a92e3fd-c025-4099-9557-76d3d4a6afd9.png)
+
+Una herramienta que te ayuda a que tu seleccion de colores no quede horrible:
+
+https://color.adobe.com/create/color-wheel
+
+O si eres como yo y solo puedes nombrar 6 colores, busca combinaciones predeterminadas aqui https://color.adobe.com/explore
+
+![image](https://user-images.githubusercontent.com/71740335/201012468-783b1ae4-f63f-4d90-8625-435893afe05a.png)
+
+Copia los colores hexadecimales y pega
+
+![image](https://user-images.githubusercontent.com/71740335/201012854-fc2138bd-5c95-4a24-94f6-de45ef75084e.png)
+
+Asi quedaria un kit con los colores
+
+![image](https://user-images.githubusercontent.com/71740335/201012805-04a677a7-5c88-463b-8df9-8144eb3977ab.png)
+
+Selecciona fuentes
+
+![image](https://user-images.githubusercontent.com/71740335/201013088-932f3966-c532-4963-bf05-a27f4a9a6929.png)
+
+Para subir logos, recuerda seleccionar imagenes sin fondo de preferencia.
+
+![image](https://user-images.githubusercontent.com/71740335/201013514-5f1f4cce-dfaa-4998-b6eb-3ff7d47816ee.png)
+
+
+
+
+
+
+
 
 
 
