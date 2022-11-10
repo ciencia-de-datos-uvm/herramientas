@@ -12,7 +12,7 @@ Canva tiene la ventaja de crear equipos y trabajar de forma asincrona, ideal par
 
 Una vez que ingreses, ve al icono de engrane y accede a **'configuracion de cuenta'** y selecciona **'facturacion y planes'**
 
-![image](https://user-images.githubusercontent.com/71740335/201001863-6aad6146-453e-4555-a83b-278a6b527004.png)
+![image](https://user-images.githubusercontent.com/71740335/201008870-f263092e-4660-4de7-93e2-aebcbb280ee3.png)
 
 En la parte inferior encontraras la seccion **Equipo**, selecciona crear nuevo equipo.
 
@@ -77,7 +77,7 @@ Puedes asignar una tarea a alguien
 
 ## Gestiona tus equipos
 
-En **configuracion / personas ** puedes ver los miembros de tus equipos y darles privilegios o eliminarlos
+En **configuracion** / **personas** puedes ver los miembros de tus equipos y darles privilegios o eliminarlos
 
 ![image](https://user-images.githubusercontent.com/71740335/201004861-80b82770-a2c8-47d8-8d31-5d73222142ea.png)
 
