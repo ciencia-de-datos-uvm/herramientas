@@ -3,6 +3,15 @@
 Canva tiene la ventaja de crear equipos y trabajar de forma asincrona, ideal para equipos distribuidos en diferentes usos horarios, geografias o con distintos horarios. Esta es una guia rapida y funcional de como crear un equipo en canva y no morir en el intento...
 
 
+  * [Crea tu cuenta en canva.com](#crea-tu-cuenta-en-canvacom)
+  * [Crea tu equipo](#crea-tu-equipo)
+  * [Comienza a trabajar en canva](#comienza-a-trabajar-en-canva)
+  * [Gestiona tus equipos](#gestiona-tus-equipos)
+  * [Administra tus plantillas para trabajar en equipo (kit de marca)](#administra-tus-plantillas-para-trabajar-en-equipo--kit-de-marca-)
+
+<small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
+
+
 ## Crea tu cuenta en canva.com
 
 ![image](https://user-images.githubusercontent.com/71740335/201002574-df242268-bfd6-4197-9b37-9dff3a0e6783.png)
