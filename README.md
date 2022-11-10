@@ -2,9 +2,11 @@
 
 Canva tiene la ventaja de crear equipos y trabajar de forma asincrona, ideal para equipos distribuidos en diferentes usos horarios, geografias o con distintos horarios. Esta es una guia rapida y funcional de como crear un equipo en canva y no morir en el intento...
 
+
 ## Crea tu cuenta en canva.com
 
 ![image](https://user-images.githubusercontent.com/71740335/201002574-df242268-bfd6-4197-9b37-9dff3a0e6783.png)
+
 
 ## Crea tu equipo
 
@@ -23,6 +25,7 @@ Ponle nombre y click en 'Crear nuevo equipo'
 Deberias de ver una pantall similar a esta, de aqui ya puedes invitar gente a tu equipo.
 
 ![image](https://user-images.githubusercontent.com/71740335/201002451-0d24c3cd-7985-47ef-ab80-6c22924b984f.png)
+
 
 ## Comienza a trabajar en canva
 
@@ -48,7 +51,23 @@ Confirma la invitacion
 
 Una vez que tu equipo acepte tu invitacion puedes etiquetar a los miembros poniendo comentarios o asignar un disenio. Para etiquetar a alguien, ve al elemento con el que esten trabajando y dale click al globo de chat. Aqui puedes iniciar una conversacion donde los integrantes pueden contestar.
 
-![image](https://user-images.githubusercontent.com/71740335/201005744-c923b6fe-db02-44b5-a8a0-721b48080e54.png)
+![image](https://user-images.githubusercontent.com/71740335/201006344-a149b426-9daa-4495-9098-025dbffe50a0.png)
+
+Con un arroba saldran los integrantes del equipo, selecciona uno o varios
+
+![image](https://user-images.githubusercontent.com/71740335/201006430-c1a2037b-efd5-4221-9901-af6badc54a85.png)
+
+Para enviar un comentario, selecciona comentar
+
+![image](https://user-images.githubusercontent.com/71740335/201006608-bb2fd8de-6ca1-4704-acca-310b367d0f68.png)
+
+Escribe tu mensaje 
+
+![image](https://user-images.githubusercontent.com/71740335/201006748-704213e0-83cb-46cd-89ae-fcb65e83c083.png)
+
+E inicia la conversacion
+
+![image](https://user-images.githubusercontent.com/71740335/201006832-16f667fb-3633-4cc0-8f1e-1ea32d8b18b1.png)
 
 
 
