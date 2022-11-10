@@ -69,6 +69,9 @@ E inicia la conversacion
 
 ![image](https://user-images.githubusercontent.com/71740335/201006832-16f667fb-3633-4cc0-8f1e-1ea32d8b18b1.png)
 
+Puedes asignar una tarea a alguien
+
+![image](https://user-images.githubusercontent.com/71740335/201007088-42f975d9-b176-4c03-ab69-f7add3564582.png)
 
 
 
